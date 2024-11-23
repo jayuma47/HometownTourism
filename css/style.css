@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Francois+One&family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
+
+
+/* NAVBAR */
+.navbar{
+    background-color: #400101;
+}
+
+/* fonts */
+h1,h2{
+    font-family: "Francois One", serif;
+}
+p,h3,a{
+    font-family: "Karla", serif;
+}
+a{
+    font-size: large;
+}
+
+/* BACKGROUND */
+.img-responsive{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+/* main color */
+#main{
+    background-color: #F25757;
+}
+
+/* FOOTER */
+
+#footer{
+    background-color: #F2F2F2;
+}
+
